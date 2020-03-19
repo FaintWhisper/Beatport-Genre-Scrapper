@@ -1,2 +1,5 @@
-# Get-a-song-genre-from-Beatport
-Retrievies a song genre from the Beatport API
+# Beatport-Genre-Scrapper
+
+**⚠️Warning: No longer maintained**
+
+Scrapes the Beatport website to get the genre of song.
